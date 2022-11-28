@@ -2,9 +2,9 @@
   "result": {
     "id": "1",
     "date": "2020-03-29",
-    "title": "Perfect Illusion",
-    "artist": "Lady Gaga",
-    "spotify_url": "https://open.spotify.com/track/56ZrTFkANjeAMiS14njg4E?si=oaaJCMbiTw2NqYK-L7CSEQ"
+    "category": "Perfect Illusion",
+    "message": "Happy",
+    "picture": "https://th.bing.com/th/id/OIP.r3aIkIe2-cyA5vJ4iq1SpQHaHa?pid=ImgDet&rs=1"
   },
   "meta": {}
 }

@@ -2,9 +2,9 @@
   "result": {
     "id": "2",
     "date": "2020-03-30",
-    "title": "Into the Unknown",
-    "artist": "Idina Menzel",
-    "spotify_url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W?si=__mISyOgTCy0nzyoumBiUg"
+    "category": "Unknown",
+    "message": "Idina Menzel",
+    "picture": "https://th.bing.com/th/id/R.d2c1e757ba80a40dca779afbb4132d30?rik=JRs5P6Zk6ZfKOA&pid=ImgRaw&r=0"
   },
   "meta": {}
 }
