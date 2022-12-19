@@ -1,10 +1,9 @@
-{
-  "result": {
+[
+   {
     "id": "3",
     "date": "2020-03-31",
     "category": "Joyful",
     "message": "Leslie Odom Jr.",
     "picture": "https://th.bing.com/th/id/R.074d42a3e793fc8dfac5ed57d0b96183?rik=NIDRwX2JW57eNw&pid=ImgRaw&r=0"
-  },
-  "meta": {}
-}
+  }
+]

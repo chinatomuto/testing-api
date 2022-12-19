@@ -1,5 +1,5 @@
-{
-  "results": [
+
+  [
     {
       "id": "1",
       "date": "2020-03-29",
@@ -75,8 +75,4 @@
       "picture": "https://i.pinimg.com/736x/f0/e5/52/f0e55290b914c313ac52e9ff75929d3b.jpg"
     }
 
-  ],
-  "meta": {
-    "count": 10
-  }
-}
+  ]

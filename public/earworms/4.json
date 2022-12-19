@@ -1,10 +1,9 @@
-{
-    "result": {
+[
+    {
         "id": "4",
         "date": "2020-03-29",
         "category": "Angry",
         "message": "Lady Gaga",
         "picture": "https://th.bing.com/th/id/R.a5195f151120df651ac519e1420eefd5?rik=oNKNmR2hQvI2fQ&pid=ImgRaw&r=0"
-    },
-    "meta": {}
-  }
+    }
+]

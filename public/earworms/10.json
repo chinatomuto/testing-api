@@ -1,10 +1,9 @@
-{
-    "result": {
+[
+     {
         "id": "10",
         "date": "2020-03-30",
         "category": "Cruise",
         "message": "Idina Menzel",
         "picture": "https://i.pinimg.com/736x/f0/e5/52/f0e55290b914c313ac52e9ff75929d3b.jpg"
-},
-"meta": {}
 }
+]

@@ -1,10 +1,9 @@
-  {
-    "result": {
+  [
+    {
         "id": "5",
         "date": "2020-03-30",
         "category": "Love",
         "message": "Idina Menzel",
         "picture": "https://th.bing.com/th/id/R.26edffdc992d11be9d81158d5804643b?rik=2JRYGNhCUngMZA&pid=ImgRaw&r=0"
-    },
-"meta": {}
-}
+    }
+  ]

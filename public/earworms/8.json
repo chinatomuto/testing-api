@@ -1,10 +1,9 @@
-{
-    "result": {
+[
+    {
         "id": "8",
         "date": "2020-03-29",
         "category": "Guilt",
         "message": "Lady Gaga",
         "picture": "https://i.pinimg.com/originals/2b/f7/6a/2bf76aee3e8a6bdb652dad756dd33a13.jpg"
-},
-"meta": {}
 }
+]
